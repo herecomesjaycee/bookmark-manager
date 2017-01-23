@@ -5,7 +5,7 @@
 ```
 As a user
 So I can see my bookmarks
-I'd like to be shown a list of my bookmarks
+I'd like to be shown a list of my bookmarks in chronological order
 ```
 #####User story 2
 
@@ -28,3 +28,7 @@ As a user
 So that I can easily find my bookmarks
 I would like to be able to sort/search by their tags
 ```
+
+#####Domain model
+
+<img src="http://i.imgur.com/qwk2Vux.png"></img>
