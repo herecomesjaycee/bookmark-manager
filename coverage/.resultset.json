@@ -1,0 +1,58 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/Mazza/Projects/bookmark_manager/app/app.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/Mazza/Projects/bookmark_manager/app/models/link.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1
+      ],
+      "/Users/Mazza/Projects/bookmark_manager/spec/features/viewing_links_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1485194649
+  }
+}
