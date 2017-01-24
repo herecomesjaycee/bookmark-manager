@@ -2,6 +2,7 @@ require 'sinatra/base'
 require_relative './models/link.rb'
 
 class BookmarkManager < Sinatra::Base
+  ENV['RACK_ENV'] ||= 'development'
 
   get '/' do
     redirect '/links'
@@ -22,7 +23,6 @@ class BookmarkManager < Sinatra::Base
     erb :'links/new'
   end
 
-
   # start the server if ruby file executed directly
-  run! if app_file == $0
+  run! if app_file == $PROGRAM_NAME
 end
