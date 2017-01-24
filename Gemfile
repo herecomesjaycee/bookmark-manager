@@ -3,12 +3,16 @@ source "https://rubygems.org"
 
 ruby '2.3.3'
 # gem "rails"
+group :test do
+  gem 'database_cleaner'
+end
 
 gem 'sinatra'
 gem 'rake'
 gem 'data_mapper'
 gem 'dm-postgres-adapter'
 gem 'dm-migrations'
+gem 'dm-transactions'
 gem 'rspec'
 gem 'rubocop-rspec'
 gem 'rubocop'
