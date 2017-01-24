@@ -166,6 +166,7 @@ DEPENDENCIES
   rspec-sinatra
   rubocop
   rubocop-rspec
+  simplecov
   sinatra
 
 RUBY VERSION
