@@ -1,9 +1,10 @@
-
+Bookmark Manager
+--------
 
 # User Stories
 ```
 As a user
-So i can select a website
+So I can select a website
 I want to see feature showing a list of links
 
 
@@ -13,13 +14,13 @@ I would like to see links in descending chronological order
 
 
 As a user
-So i can add to a database
+So I can add to a database
 I want a feature that adds new links
 
 As a user
-So i can can return to a webpage
+So I can can return to a webpage
 I want a feature that adds tags to links
 
 As a user
-So i can can sort the database
+So I can can sort the database
 I want a feature to filter links by a tag
