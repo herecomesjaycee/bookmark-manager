@@ -1,7 +1,11 @@
 Bookmark Manager
 --------
+# Objectives
+This challenge is set out to understand the purposes of ORM (Object Relationship Mapping) in the MVC (Model View Controller) framework, alongwith building our knowledge in deploying an web application with database.
+
 
 # User Stories
+This challenge is to build the a bookmanager manager application that follows the user stories below.
 ```
 As a user
 So I can select a website
